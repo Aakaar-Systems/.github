@@ -4,7 +4,7 @@
 
 **Reliable AI and workflow automation for small businesses in India.**
 
-[Website]([EDIT: your website URL]) · [Email](mailto:[EDIT: your email]) · [LinkedIn](https://www.linkedin.com/company/aakaar-systems/home/?viewAsMember=true)
+[Website](https://aakaar-systems.vercel.app/) · [Email](mailto:sakshamjaiswalofficial@gmail.com) · [LinkedIn](https://www.linkedin.com/company/aakaar-systems/home/?viewAsMember=true)
 
 </div>
 
